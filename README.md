@@ -1,5 +1,3 @@
-## Assignment for Veridapt
-
 ### Install dependencies
 
 `ruby bundler_inline.rb`
